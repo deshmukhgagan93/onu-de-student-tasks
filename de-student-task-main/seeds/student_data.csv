@@ -1,0 +1,201 @@
+student_id,name,age,gender,major,minor,year_of_university,test_score_math,test_score_science,test_score_english,birthday,city_of_birth,state_of_birth
+1,Margaret Young,24,Male,Industrial Engineering,Data Analytics,4,100,89,89,2001-12-17,Katelynfort,OK
+2,William Cantrell,22,Male,Software Engineering,Pharmacology,3,72,85,98,2004-08-26,Timothyside,ID
+3,Jennifer Curry,21,Female,Computer Science,Biotechnology,3,81,77,78,2001-11-01,Lake Tyler,KY
+4,Theresa Moore,22,Female,Statistics,Astrophysics,1,77,89,85,2004-01-15,Port Lisa,SC
+5,William Olson,21,Male,Computer Engineering,Mathematics,1,89,83,82,2003-08-21,Jasmineview,OK
+6,Brittany Lee,23,Female,Civil Engineering,Biology,1,80,87,70,2000-10-23,Port Monicatown,DE
+7,Justin Brown,24,Female,Mathematics,Physics,3,94,88,76,2001-11-06,Williamsview,OK
+8,Matthew Robinson,21,Female,Computer Science,Actuarial Science,1,84,88,94,2000-08-10,Cookberg,OH
+9,David Ford,24,Male,Mechanical Engineering,Robotics,1,77,91,89,2001-05-18,Richardhaven,FM
+10,John Carey,24,Female,Physics,Biotechnology,1,83,87,86,2004-03-05,Lake Ashley,NM
+11,Thomas Booth,21,Male,Industrial Engineering,Operations Research,4,85,100,85,2003-03-06,Hernandezchester,AL
+12,Elizabeth Baker,20,Male,Computer Science,Data Analytics,3,83,78,90,1999-12-28,Angelamouth,NJ
+13,Michael Anderson,24,Female,Civil Engineering,Biotechnology,4,72,73,92,2001-12-25,Lake Brittney,TN
+14,Joshua Willis,23,Female,Computer Engineering,Operations Research,1,84,87,83,2001-08-31,Lake Michaelside,AL
+15,Alexandra Lewis,23,Male,Civil Engineering,Biotechnology,1,79,74,89,2000-03-11,Hillburgh,MT
+16,Joseph Miller,22,Male,Industrial Engineering,Operations Research,3,93,95,87,2000-07-23,New Nicholas,NV
+17,Nathan Murray,22,Female,Biochemistry,Environmental Science,5,86,83,92,2002-03-15,East Sabrina,MS
+18,Ashley Horton,22,Male,Statistics,Data Science,3,81,82,77,2001-12-03,New Paulchester,ND
+19,Savannah Bradley,22,Female,Computer Engineering,Data Analytics,1,87,76,92,2001-01-03,Timothyland,HI
+20,Joshua Garcia,23,Female,Biochemistry,Astronomy,4,82,97,92,2000-07-18,West Sandra,NJ
+21,Jennifer Miller,23,Male,Computer Science,Mathematics,2,95,83,95,2000-04-26,Carrollside,PR
+22,Jennifer Zavala,24,Female,Mathematics,Environmental Science,5,78,83,72,2003-10-20,North Catherineland,AS
+23,Cheyenne Young,20,Male,Statistics,Data Analytics,2,76,74,92,2004-06-02,Heiditown,MO
+24,Andrea Parrish,21,Female,Civil Engineering,Actuarial Science,4,82,75,90,2002-02-28,Josephview,ME
+25,Monica White,22,Female,Industrial Engineering,Actuarial Science,1,85,74,85,2003-10-18,Lake Jerryberg,SC
+26,Andrew Smith,24,Male,Biomedical Engineering,Actuarial Science,2,77,78,83,2004-08-20,Loveport,VT
+27,Alison Dalton,20,Female,Software Engineering,Actuarial Science,2,99,95,87,2001-11-11,South Ronaldstad,MO
+28,Amy Lewis,24,Male,Information Systems,Physics,2,73,100,100,2003-04-17,Jacksonhaven,AR
+29,Nicholas Gonzalez,23,Male,Civil Engineering,Operations Research,4,77,79,100,2003-05-13,Michaelhaven,MT
+30,David Jackson,20,Female,Computer Engineering,Pharmacology,3,81,92,75,2002-08-22,Kristenberg,UT
+31,Ashley Knight,20,Female,Information Systems,Geology,1,82,73,73,2001-08-09,East Veronica,PA
+32,Kevin Williams,21,Female,Chemical Engineering,Astronomy,1,70,73,76,2003-11-28,Hoganmouth,NM
+33,Vincent Miranda,24,Female,Environmental Engineering,Chemistry,2,91,92,89,2000-10-07,New Amber,ID
+34,Mr. Benjamin Wolfe,24,Female,Civil Engineering,Environmental Science,4,86,77,100,2000-09-11,Chadport,ND
+35,Jaclyn Rodriguez,23,Female,Civil Engineering,Biotechnology,1,85,72,99,2002-10-04,Susanstad,OK
+36,Antonio Hines,24,Female,Information Systems,Astronomy,5,74,79,97,2003-10-20,East Royburgh,FM
+37,Steven Andrews,22,Female,Industrial Engineering,Biotechnology,1,76,73,73,2000-12-19,Russellburgh,ME
+38,Bradley Bell,20,Female,Software Engineering,Biotechnology,1,70,80,97,2004-03-17,Port Susanside,TN
+39,Nancy Jones,20,Male,Computer Science,Geology,5,81,70,86,2001-09-16,East Gerald,AK
+40,Julie Mcclain,23,Male,Mathematics,Astrophysics,3,72,71,77,2000-12-11,Swansonbury,MT
+41,Keith Knight,24,Female,Statistics,Economics,5,72,100,79,2004-06-22,Lake Jacobland,CT
+42,Daniel Weiss,22,Female,Computer Science,Physics,2,81,83,81,2001-05-13,West Christine,HI
+43,Zachary Miller,22,Female,Environmental Engineering,Robotics,5,96,87,84,2000-03-22,South Carrie,NE
+44,Diana Smith,23,Female,Industrial Engineering,Biology,4,89,100,86,2000-11-26,Tiffanyshire,NH
+45,Sara Harris,23,Male,Computer Engineering,Materials Science,2,95,91,70,2004-08-30,North Dawn,KY
+46,Anthony Richards,20,Male,Biomedical Engineering,Astrophysics,1,89,98,85,2003-07-20,Matthewland,MP
+47,Melissa Rodriguez,20,Female,Computer Engineering,Geology,2,91,76,89,2003-10-22,East Tracybury,MI
+48,Jordan Hernandez,20,Male,Mathematics,Physics,3,74,74,85,2000-06-01,New Shaun,MN
+49,Jennifer Pineda,21,Female,Mathematics,Artificial Intelligence,2,76,87,77,2000-01-02,West Tony,OH
+50,Sierra Obrien,21,Male,Computer Science,Mathematics,4,80,82,93,2000-02-29,Port Scottberg,GA
+51,Kristine Simpson,22,Female,Computer Science,Artificial Intelligence,3,84,92,78,2001-02-16,Richchester,IL
+52,Rebecca Rogers,21,Male,Software Engineering,Operations Research,5,86,91,88,2002-10-14,Poolemouth,CT
+53,Frank Gibson,21,Female,Aerospace Engineering,Materials Science,3,86,71,90,2001-09-19,North Jaredstad,PW
+54,Samantha Gonzalez,23,Male,Aerospace Engineering,Environmental Science,1,93,83,96,2003-01-01,Lake Jessicamouth,AS
+55,Caitlyn Maldonado,22,Male,Physics,Mathematics,3,80,100,89,2000-05-09,Lake Lisaborough,MD
+56,Samantha Maxwell,23,Female,Information Systems,Astronomy,1,96,91,80,1999-11-17,Rogerstown,SC
+57,Janice Lewis,22,Male,Software Engineering,Data Analytics,2,75,87,87,2002-04-14,Tracifurt,RI
+58,Courtney Bradley,22,Female,Electrical Engineering,Pharmacology,1,81,72,79,1999-11-29,Ericborough,MP
+59,Catherine Morgan,21,Male,Civil Engineering,Operations Research,5,94,96,82,2001-09-12,Martintown,GA
+60,John Ferguson,21,Male,Information Systems,Environmental Science,5,97,84,76,1999-10-08,Moodyhaven,NC
+61,Hunter Gordon,23,Male,Software Engineering,Geology,4,82,81,82,1999-09-23,North Edwinville,MS
+62,Heather Curtis,22,Female,Electrical Engineering,Actuarial Science,5,79,93,93,2001-05-29,Elizabethbury,TN
+63,Diane Martinez,22,Male,Mathematics,Physics,5,87,97,77,2002-09-18,Josefort,CO
+64,Dawn Henderson,24,Female,Chemical Engineering,Environmental Science,2,95,95,71,2002-02-12,Williamburgh,ID
+65,Samantha Huber,20,Female,Civil Engineering,Actuarial Science,1,91,74,72,2000-10-25,New Latasha,SD
+66,Tonya Kelly MD,23,Female,Industrial Engineering,Operations Research,4,78,95,92,1999-09-18,East Maryton,TN
+67,Timothy Martin,21,Male,Computer Engineering,Actuarial Science,2,92,87,94,2001-11-14,West Jaredmouth,MD
+68,Ryan Graham,24,Female,Computer Engineering,Data Science,1,97,80,74,2000-11-07,North Stephen,WV
+69,Diane Cisneros,23,Female,Mathematics,Mathematics,4,85,88,96,2000-03-20,New Ianmouth,ND
+70,Anna Fox,20,Male,Electrical Engineering,Artificial Intelligence,5,86,93,76,2003-09-25,Jordanfort,LA
+71,Harold Lawrence,24,Male,Aerospace Engineering,Biotechnology,2,92,80,95,2000-12-06,Josephfort,AS
+72,Juan Mccall,24,Female,Statistics,Pharmacology,5,74,71,90,2004-06-18,Arthurburgh,ND
+73,Joseph Williams DVM,22,Female,Industrial Engineering,Pharmacology,3,73,82,71,2003-08-09,Kristinmouth,DE
+74,Dakota Miller,24,Male,Industrial Engineering,Pharmacology,1,90,81,84,2001-11-08,Blackshire,FL
+75,Michael Morton,21,Male,Physics,Environmental Science,2,81,100,89,2001-07-24,West Jasonfort,GU
+76,Eric Morgan,20,Female,Biochemistry,Actuarial Science,3,95,88,85,2004-08-30,Port Michael,FM
+77,Tara Andrews,23,Female,Civil Engineering,Operations Research,5,76,80,77,2001-01-28,Lake Brandon,OR
+78,Keith Hernandez,22,Female,Aerospace Engineering,Environmental Science,1,74,100,92,2002-08-22,East Alexander,WI
+79,Christina Cox,21,Female,Biochemistry,Biotechnology,4,99,73,76,2004-08-27,Hartmanview,HI
+80,Tara Reese,21,Male,Electrical Engineering,Operations Research,4,86,93,87,2004-08-01,Brownchester,NJ
+81,Andrew Thomas,20,Female,Computer Science,Actuarial Science,5,79,74,76,2004-06-18,Rhodesberg,GU
+82,Dr. Benjamin Lopez,20,Male,Environmental Engineering,Biology,1,78,84,96,2000-02-28,New Teresafort,PA
+83,William Terry,21,Male,Computer Science,Actuarial Science,5,75,71,98,2003-02-20,North Rebeccaview,NY
+84,Tracy Nguyen,20,Female,Industrial Engineering,Operations Research,2,87,80,95,2001-06-20,Joseland,PA
+85,Abigail Hoover,20,Female,Computer Engineering,Operations Research,3,95,88,80,2003-07-12,North Amanda,WI
+86,Sara Fitzgerald,20,Male,Physics,Pharmacology,1,82,93,88,2003-09-03,East Timothy,DC
+87,Kevin Peters,20,Female,Statistics,Economics,5,98,76,72,1999-10-07,North Amanda,ND
+88,Michael Brown,20,Female,Environmental Engineering,Pharmacology,1,71,92,71,2001-04-01,Lake Jennifer,IA
+89,Colin King,20,Female,Industrial Engineering,Robotics,2,89,93,84,2004-06-30,Graymouth,SC
+90,Vincent Briggs,21,Female,Environmental Engineering,Data Science,4,70,95,99,2003-05-31,Kingside,VI
+91,Maria Foley,23,Male,Chemical Engineering,Astrophysics,3,98,99,78,2003-09-03,North Jennifer,OK
+92,Amy Smith,23,Female,Aerospace Engineering,Pharmacology,5,79,89,98,2004-03-23,Ivanberg,SD
+93,Rachel Thompson,20,Male,Software Engineering,Operations Research,3,77,96,100,1999-10-11,Silvahaven,IN
+94,Taylor Moore MD,21,Female,Biomedical Engineering,Astronomy,4,73,90,82,2002-07-18,Lake Sylviamouth,AR
+95,Amanda Chan,22,Female,Computer Engineering,Environmental Science,5,79,99,84,2003-07-21,Clayport,AL
+96,Wendy Glover,23,Male,Computer Engineering,Actuarial Science,1,83,94,71,2004-06-07,East Rebeccafort,IL
+97,Jordan Goodman,24,Male,Chemical Engineering,Mathematics,5,88,86,95,2000-05-01,West Jason,NE
+98,Joshua Ayala,21,Male,Physics,Economics,2,85,84,83,2002-07-17,Daniellemouth,MA
+99,Dana Terrell,22,Female,Chemical Engineering,Data Analytics,4,73,72,88,2001-06-29,Lake Jonathan,VA
+100,Anita Wilson,23,Female,Software Engineering,Astronomy,1,84,95,96,2001-06-25,New Olivia,MT
+101,Patrick White,24,Female,Mathematics,Astrophysics,4,73,74,77,2004-02-07,Lake Toniville,AK
+102,Jennifer Cohen,24,Male,Aerospace Engineering,Actuarial Science,1,95,74,88,2000-12-12,Port Samuel,NV
+103,Nicole Hamilton,22,Male,Software Engineering,Geology,5,73,90,80,2002-04-13,Amymouth,SC
+104,Jonathan David,21,Male,Physics,Biotechnology,1,71,96,75,2004-07-11,Jacquelineville,SC
+105,Michael Walters,24,Female,Physics,Materials Science,3,96,79,99,2002-01-20,Port Jason,MD
+106,Michael Brown,20,Male,Mechanical Engineering,Mathematics,3,75,78,75,2000-03-08,Richardchester,NJ
+107,Tamara Gilmore,24,Male,Software Engineering,Astrophysics,1,70,94,86,2004-04-16,West Richardborough,TX
+108,Tracy Wagner,21,Female,Biomedical Engineering,Artificial Intelligence,3,97,79,99,2000-11-20,Watsonfurt,IA
+109,Andrea Lopez,21,Female,Industrial Engineering,Materials Science,5,71,82,91,2002-09-17,New Cindystad,NH
+110,Patricia Carson,21,Female,Chemical Engineering,Pharmacology,3,73,81,91,2001-11-16,Dunnborough,TX
+111,Sarah Martin,21,Female,Physics,Physics,1,98,93,87,2002-03-26,West Jeffreyview,OH
+112,Omar Roberts,24,Female,Chemical Engineering,Chemistry,4,78,99,74,2002-05-11,Ellisshire,GA
+113,Felicia Rodriguez,24,Female,Electrical Engineering,Actuarial Science,3,80,77,86,2002-11-08,Lake Erichaven,TX
+114,Christopher Allen,22,Male,Computer Science,Physics,5,73,79,89,2000-12-03,New Lisaberg,WY
+115,Steven Wilson,21,Female,Software Engineering,Biology,2,98,97,89,2002-01-26,West Patrick,UT
+116,Sherry Williams,24,Male,Computer Engineering,Materials Science,3,80,80,72,2001-12-01,East Theresafort,PW
+117,Brian Murray,23,Female,Information Systems,Data Analytics,1,98,90,82,2003-12-18,Taylorstad,MO
+118,Carrie Wolfe,21,Male,Electrical Engineering,Biotechnology,1,81,76,94,2002-09-16,West Peggystad,VA
+119,Jeffery Palmer,24,Female,Statistics,Mathematics,5,97,95,99,2004-04-21,Cooperberg,OH
+120,Amy Campbell,20,Male,Mechanical Engineering,Artificial Intelligence,3,72,72,94,2002-09-11,South Courtney,MI
+121,Charles Herman,22,Female,Biochemistry,Data Science,2,84,81,91,2000-04-06,West Cheryl,HI
+122,Glenn Keller,24,Female,Environmental Engineering,Astrophysics,5,80,76,95,2004-07-11,Duranfurt,VI
+123,Jeffrey Gardner,24,Male,Biomedical Engineering,Astronomy,1,73,85,100,2003-07-19,North Ericburgh,NC
+124,William Hicks,24,Female,Mechanical Engineering,Physics,5,82,89,96,2001-04-06,Morganland,MO
+125,Susan Martinez,21,Male,Mechanical Engineering,Physics,3,80,73,84,2004-05-29,Port Cheryl,WI
+126,Mark Skinner,24,Female,Chemical Engineering,Economics,3,70,80,94,2000-07-04,Collinsside,TN
+127,Andrew Chapman,22,Female,Biochemistry,Biology,4,76,94,77,2000-02-29,Angelafurt,NY
+128,Ryan Morrison,21,Female,Physics,Pharmacology,3,94,90,75,2002-06-06,Jessicaville,IL
+129,Amy Brown,20,Male,Aerospace Engineering,Economics,2,99,94,79,2003-10-12,South Bobby,IN
+130,Rachel Brown,23,Male,Industrial Engineering,Actuarial Science,4,96,92,99,2003-05-29,South Emilyton,NY
+131,Brian Stokes,20,Male,Environmental Engineering,Astronomy,1,82,70,91,2003-01-01,Samanthaville,MN
+132,Julie Mora,23,Female,Biochemistry,Operations Research,4,97,73,74,2002-07-02,Jasonfurt,TN
+133,Brian Johnson,22,Male,Statistics,Astronomy,3,78,84,93,2003-05-02,New Alexandraborough,IN
+134,John Marshall,23,Female,Biochemistry,Data Science,1,74,90,74,2003-03-02,Carrville,NC
+135,Kyle West,24,Female,Electrical Engineering,Mathematics,1,98,73,86,2004-05-08,East Robertberg,MA
+136,Nathan Edwards,24,Female,Biochemistry,Materials Science,2,80,92,80,2004-04-30,South Andrewbury,OH
+137,Mary Barker,21,Female,Mathematics,Data Analytics,4,87,99,80,2003-09-27,Maddenfurt,SC
+138,Terri May,22,Female,Computer Science,Operations Research,5,99,72,98,2004-07-01,Smithhaven,AL
+139,Casey Lopez,21,Male,Software Engineering,Operations Research,2,97,96,71,2001-05-05,West Heidishire,CA
+140,Leslie Walters,21,Female,Mechanical Engineering,Geology,2,75,100,92,2000-10-11,Julieport,NY
+141,Denise Cross,20,Female,Software Engineering,Economics,3,96,81,73,1999-10-18,Lake William,ID
+142,Kerry Mcneil,20,Female,Information Systems,Chemistry,5,82,81,97,2003-01-10,East Christina,VI
+143,Katelyn Walton,22,Female,Physics,Materials Science,2,93,96,83,2000-11-08,Brendaville,PA
+144,Evan Adams,22,Male,Biochemistry,Materials Science,3,78,85,90,2002-05-26,Mccoystad,SC
+145,Alex Garcia,20,Male,Physics,Data Analytics,4,71,95,88,2001-01-29,Port Jody,TX
+146,Daniel Collins,24,Male,Physics,Physics,5,89,82,95,2000-10-10,West Sara,IL
+147,Donald Whitaker,22,Male,Biochemistry,Operations Research,5,80,77,81,2003-10-02,Howellview,MH
+148,David Herrera,20,Male,Biomedical Engineering,Pharmacology,1,96,97,78,2001-04-19,Campbellshire,CA
+149,Jacqueline Bryant,20,Female,Biochemistry,Robotics,1,79,73,89,2000-01-05,Walkerhaven,WA
+150,Corey Cox,24,Male,Biochemistry,Biology,2,94,93,70,2000-02-28,West Samuel,NE
+151,Austin Garcia,23,Female,Electrical Engineering,Environmental Science,5,90,80,89,2000-11-26,Cameronside,NV
+152,Amy Carlson,21,Female,Information Systems,Mathematics,5,73,99,91,2001-04-01,Weissburgh,GA
+153,Fred Orozco,23,Female,Mathematics,Economics,2,89,89,79,2000-08-26,South Carolynland,CT
+154,Denise Singleton,23,Male,Civil Engineering,Astronomy,4,95,87,70,2000-07-12,North Nicoleside,MO
+155,Jonathan Payne,20,Female,Software Engineering,Biotechnology,3,81,89,82,2004-05-31,Lorichester,NM
+156,Meghan Ochoa,22,Male,Biochemistry,Astrophysics,5,78,71,82,2001-02-10,Ramirezfort,MO
+157,Danielle Marshall,20,Male,Computer Science,Economics,1,90,84,91,2004-05-02,Bryanhaven,WY
+158,Veronica Gamble,23,Male,Industrial Engineering,Actuarial Science,3,90,82,70,2001-12-24,Taylorshire,AS
+159,Andrew Collier,21,Female,Computer Engineering,Data Science,5,80,88,80,2004-05-24,Jeffreyton,NJ
+160,Jermaine Holder,21,Female,Electrical Engineering,Environmental Science,3,84,75,78,2003-11-13,East Joycefort,NJ
+161,Brenda Hess,24,Male,Civil Engineering,Geology,4,79,93,91,2002-05-22,Whiteton,NY
+162,Brendan Adams,21,Female,Software Engineering,Geology,3,72,79,77,2002-01-04,Reedport,WY
+163,Nicole Thompson,24,Female,Chemical Engineering,Astronomy,1,91,94,99,2004-03-09,Cortezborough,CO
+164,Eric Davidson,24,Female,Mathematics,Mathematics,4,70,99,76,2003-07-12,Mathewsburgh,NV
+165,Jonathan Taylor,23,Male,Mechanical Engineering,Data Analytics,3,90,78,71,2002-05-08,Hancockport,GA
+166,Judy Jackson,22,Male,Information Systems,Physics,4,95,88,74,2002-06-12,Samanthafurt,VA
+167,Melissa Pearson,22,Male,Industrial Engineering,Robotics,4,96,97,82,2000-08-07,Rebeccaport,MT
+168,April Campbell,20,Male,Physics,Biology,1,98,89,100,2004-09-13,Lake Lacey,AL
+169,Michael Pratt,20,Male,Civil Engineering,Biology,4,100,96,90,2001-09-25,Ewingfort,GA
+170,Jennifer Kaiser,24,Male,Electrical Engineering,Environmental Science,4,93,84,78,2000-05-05,Joshuaville,KS
+171,Charles Hull,21,Male,Physics,Physics,1,86,72,97,2000-12-17,South Anita,UT
+172,Jeffrey Bauer,23,Male,Electrical Engineering,Artificial Intelligence,2,91,85,98,2000-07-10,Amyview,DE
+173,Pamela Parks,24,Female,Software Engineering,Geology,5,73,99,94,2004-07-02,East William,NJ
+174,Jose Jones,23,Female,Industrial Engineering,Mathematics,5,78,99,90,2000-09-30,New Sarah,NH
+175,Christina Lopez,21,Female,Electrical Engineering,Data Analytics,5,87,100,79,2003-04-28,Isabelburgh,KY
+176,Michael Collins,20,Male,Information Systems,Operations Research,4,78,80,85,2000-01-07,Mcdanielhaven,PA
+177,Ashley Ortega,24,Female,Biomedical Engineering,Actuarial Science,3,82,78,89,1999-11-28,West Jessica,AK
+178,Miranda Scott,20,Female,Information Systems,Chemistry,1,75,88,79,2003-10-27,Lindseytown,NH
+179,Lindsey Cooper,20,Male,Civil Engineering,Actuarial Science,1,91,89,86,2003-02-09,Elizabethstad,TN
+180,Carolyn Koch,22,Male,Physics,Robotics,3,85,79,85,2001-10-29,Bradshawfurt,AS
+181,Dana Conway,24,Female,Statistics,Astronomy,1,78,87,95,2003-01-20,Juanville,SC
+182,Melissa Mitchell,20,Male,Aerospace Engineering,Robotics,5,80,97,81,2003-02-22,Sandersside,NC
+183,Joan Ramos,23,Male,Civil Engineering,Economics,1,73,77,95,2002-12-18,South Jeremyborough,IA
+184,Jessica Sexton,23,Female,Mathematics,Astrophysics,4,94,98,94,2001-01-09,South Katelyn,VA
+185,Mark Werner,23,Female,Statistics,Pharmacology,4,76,74,87,2003-05-08,Jordanmouth,VI
+186,Carolyn Adams,22,Male,Civil Engineering,Artificial Intelligence,3,95,73,100,2001-11-27,South Ericborough,MD
+187,Dustin Wong,23,Female,Computer Science,Operations Research,2,100,72,70,1999-12-31,Lake William,MO
+188,Robin Molina,21,Male,Electrical Engineering,Data Science,3,90,72,73,2000-03-15,West Coreytown,SD
+189,Christian Johnson,21,Female,Software Engineering,Environmental Science,4,95,78,93,2002-03-04,Nicolefurt,PR
+190,Sara Thomas,23,Male,Civil Engineering,Economics,5,85,80,94,2001-08-14,New Sean,WY
+191,Michael Velazquez,24,Female,Mechanical Engineering,Data Science,2,97,70,76,2004-08-14,Fosterbury,TN
+192,Cheryl Kelly,22,Male,Information Systems,Data Analytics,3,87,72,86,2000-11-14,Allisonside,WY
+193,Kelly Gomez,23,Female,Software Engineering,Robotics,1,98,77,74,2004-07-17,Port Brett,FM
+194,Elizabeth Pham,21,Female,Physics,Materials Science,5,95,95,99,2004-03-19,Heatherchester,ID
+195,Brenda Lopez,23,Female,Electrical Engineering,Biology,2,76,76,91,2003-01-15,Lawrencemouth,OK
+196,Elizabeth Cooley,23,Female,Computer Engineering,Data Science,1,91,79,72,2000-02-24,New Kaylee,FL
+197,Kathleen Fox,20,Female,Mathematics,Mathematics,2,89,85,82,2000-06-02,Tylerfurt,NC
+198,Stephanie Jones,24,Female,Electrical Engineering,Biotechnology,4,88,72,72,2004-09-13,North Ericview,PA
+199,Melissa Rubio,23,Male,Aerospace Engineering,Chemistry,4,99,84,87,2002-05-05,Jefferyhaven,VI
+200,Jeffrey Perez,23,Female,Chemical Engineering,Biotechnology,4,91,86,93,2003-04-25,South Caitlinside,PR

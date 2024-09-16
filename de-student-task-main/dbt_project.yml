@@ -1,0 +1,17 @@
+config-version: 2
+name: 'de_student_task'
+version: '0.0.1'
+require-dbt-version: ">=1.8.0"
+profile: 'de_student_task'
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+clean-targets:
+  - "target"
+  - "dbt_packages"
+models:
+  de_student_task:
+    # +materialized: table # Uncomment this line to make all models in this project tables
