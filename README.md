@@ -6,14 +6,14 @@ This project contains two main tasks:
 
 Create a .env file to store the credentials and edit them before running scripts
 
-TOKEN= "xxxxxxx" 
-DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=postgres
-DB_USER=postgres
-DB_PASSWORD=xxxxx
-DBT_USER=postgres
-DBT_PASSWORD=mysecretpassword
+1. TOKEN= "xxxxxxx"
+2. DB_HOST=localhost
+3. DB_PORT=5432
+4. DB_NAME=postgres
+5. DB_USER=postgres
+6. DB_PASSWORD=xxxxx
+7. DBT_USER=postgres
+8. DBT_PASSWORD=password
 
 Created an venv for virtual environmnet purpose 
 "requirement.txt" was done via "pip freeze"
