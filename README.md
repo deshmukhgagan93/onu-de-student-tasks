@@ -17,19 +17,20 @@ DB_PASSWORD=xxxxx
 DBT_USER=postgres
 DBT_PASSWORD=xxxxx
 ```
-
-11. Create an venv for virtual environmnet purpose
-12. "requirement.txt" was done via "pip freeze" 
-13. And ".gitignore" used which was suggesged during repo initilization
+2. Token could be obtained from this url "https://techport.nasa.gov/help/articles/api"
+3. Create an venv for virtual environmnet purpose
+4. "requirement.txt" was done via "pip freeze" 
+5. And ".gitignore" used which was suggesged during repo initilization
 
 Improvemnets Suggestion
 1. Some suggetsion for improvemnts would be 
 2. Use "Github" for verison conrtrol
 3. And then can use "Github actions" for CI\CD
-4. Can use "airflow" for orchestration
-5. And all the setup could be hosted on "AWS cloud"
-6. Using "Terraform" for IaC
-7. These all updates could be provided on "Slack" for visisbility
+4. There are lot od "web hooks" in guthub actions, which could help the process of CI\CD
+5. Can use "airflow" for orchestration and automation of script
+6. And all the setup could be hosted on "AWS cloud"
+7. Using "Terraform" for IaC
+8. These all updates could be provided on "Slack" for visisbility
 
 
 ## Task 1: dbt Data Transformation
