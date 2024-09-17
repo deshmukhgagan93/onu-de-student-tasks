@@ -13,7 +13,7 @@ General Info
 6. DB_USER=postgres
 7. DB_PASSWORD=xxxxx
 8. DBT_USER=postgres
-9. DBT_PASSWORD=enter_password
+9. DBT_PASSWORD=xxxxx
 
   
 11. Create an venv for virtual environmnet purpose
@@ -50,15 +50,15 @@ Improvemnets Suggestion
 3. <img width="701" alt="image" src="https://github.com/user-attachments/assets/2af2be2b-4afd-4509-a8c5-bd4d69186b1b">
 
 4. Run "dbt run", To build models
-5. 
-6. <img width="972" alt="image" src="https://github.com/user-attachments/assets/3fc88df5-dbb8-4c7f-b703-87df1e0bd2be">
+  
+6.   <img width="972" alt="image" src="https://github.com/user-attachments/assets/3fc88df5-dbb8-4c7f-b703-87df1e0bd2be">
 
 7. Run "dbt test", To test the model or seed
-8. 
+   
 9. <img width="994" alt="image" src="https://github.com/user-attachments/assets/82555b28-cd6b-499f-aaea-a0643ba36826">
 
 10. Overall database snippet
-11. 
+    
 12. <img width="1138" alt="image" src="https://github.com/user-attachments/assets/4ff12758-8cf0-4172-86be-dd6855ddacc5">
 
 
