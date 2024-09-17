@@ -6,16 +6,18 @@ This project contains two main tasks:
 
 General Info
 1. Create a .env file to store the credentials and edit them before running scripts
-2. TOKEN= "xxxxxxx"
-3. DB_HOST=localhost
-4. DB_PORT=5432
-5. DB_NAME=postgres
-6. DB_USER=postgres
-7. DB_PASSWORD=xxxxx
-8. DBT_USER=postgres
-9. DBT_PASSWORD=xxxxx
 
-  
+```env
+TOKEN= "xxxxxxx"
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=postgres
+DB_USER=postgres
+DB_PASSWORD=xxxxx
+DBT_USER=postgres
+DBT_PASSWORD=xxxxx
+```
+
 11. Create an venv for virtual environmnet purpose
 12. "requirement.txt" was done via "pip freeze" 
 13. And ".gitignore" used which was suggesged during repo initilization
@@ -40,22 +42,23 @@ Improvemnets Suggestion
 ### Setup
 1. Clone this repository
 2. Navigate to the project repo
-3. Run the command "docker compose up -d"
+3. Run the command
+4. `docker compose up -d`
 5. Open terminal in 'de-student-task-main'
 6. Then enter below commands
 
 ### DBT Part
-1. Run "dbt seed" to seed the data
+1. Run `dbt seed` to seed the data
    
-2. Run "dbt debug", To check helath of dbt
+2. Run `dbt debug`, To check helath of dbt
    
 3. <img width="701" alt="image" src="https://github.com/user-attachments/assets/2af2be2b-4afd-4509-a8c5-bd4d69186b1b">
 
-4. Run "dbt run", To build models
+4. Run `dbt run`, To build models
   
 6.   <img width="972" alt="image" src="https://github.com/user-attachments/assets/3fc88df5-dbb8-4c7f-b703-87df1e0bd2be">
 
-7. Run "dbt test", To test the model or seed
+7. Run `dbt test`, To test the model or seed
    
 9. <img width="994" alt="image" src="https://github.com/user-attachments/assets/82555b28-cd6b-499f-aaea-a0643ba36826">
 
@@ -73,8 +76,9 @@ Improvemnets Suggestion
 
 ### Steps to run the script
 - Open terminal in "de-student-task-python"
-- Script takes in 1 argument i.e one date in format YYYY-MM-DD
-- Run the script this way "python3 fetch_n_insert.py 2020-1-1"
+- Script takes in 1 argument i.e one date in format "YYYY-MM-DD"
+- Run the script this way
+- `python3 fetch_n_insert.py 2020-1-1`
 - This would fetch "project ids" updated after "2020-1-1"
 - This script fetches data from NASA API and has lots of empty fileds
 - URL "https://techport.nasa.gov/help/articles/api"
