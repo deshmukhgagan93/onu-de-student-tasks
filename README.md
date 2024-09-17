@@ -45,7 +45,9 @@ Improvemnets Suggestion
 6. Then enter below commands
 
 ### DBT Part
-1. Run "dbt debug", To check helath of dbt
+1. Run "dbt seed" to seed the data
+   
+2. Run "dbt debug", To check helath of dbt
    
 3. <img width="701" alt="image" src="https://github.com/user-attachments/assets/2af2be2b-4afd-4509-a8c5-bd4d69186b1b">
 
