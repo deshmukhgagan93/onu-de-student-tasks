@@ -39,8 +39,10 @@ Improvemnets Suggestion
 
 ### Setup
 1. Clone this repository
-2. Navigate to the project repo:
-3. run the command "docker compose up -d"
+2. Navigate to the project repo
+3. Run the command "docker compose up -d"
+5. Open terminal in 'de-student-task-main'
+6. Then enter below commands
 
 ### DBT Part
 1. Run "dbt debug", To check helath of dbt
