@@ -72,5 +72,9 @@ Improvemnets Suggestion
 ### Steps to run the script
 - Open terminal in "de-student-task-python"
 - Script takes in 1 argument i.e one date in format YYYY-MM-DD
-- run the script this way "python3 fetch_n_insert.py 2020-1-1"
+- Run the script this way "python3 fetch_n_insert.py 2020-1-1"
 - This would fetch "project ids" updated after "2020-1-1"
+- This script fetches data from NASA API and has lots of empty fileds
+- URL "https://techport.nasa.gov/help/articles/api"
+- Above script ignores the columns which were empty
+- And takes only "project_id" and "last_updated" and fed them into postgres database
